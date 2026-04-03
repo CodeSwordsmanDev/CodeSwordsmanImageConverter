@@ -12,17 +12,17 @@ English Website：[https://lumtool.com](https://lumtool.com)
 ---
 
 ## ✨ Features / 功能特性
-- **Comprehensive Format Support**: Convert between all popular image formats
-  支持所有主流图片格式互转
-- **Batch Conversion**: Process hundreds of images with one click
-  批量转换，一键处理大量图片
-- **Lossless Quality**: Preserve original image quality during conversion
-  无损转换，保留原始画质
-- **User-Friendly UI**: Intuitive interface, zero learning curve
+
+- **One-click Standard Icon Generation**: Generate standard icons for multiple platforms in one click
+  多平台标准图标一键生成
+
+- **Simple & Intuitive Interface**: Clean and straightforward UI with zero learning cost
   简洁直观界面，零学习成本
+
 - **100% Free**: No ads, no bundles, no hidden fees
   完全免费，无广告、无捆绑、无隐藏收费
-- **Fast & Stable**: High-speed processing, stable performance
+
+- **Fast & Stable**: Fast and stable with efficient processing
   快速稳定，高效处理
 
 ### 🖼️ Software Interface / 软件界面
