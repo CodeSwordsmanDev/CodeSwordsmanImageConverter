@@ -1,4 +1,4 @@
-# 码剑客图转器 / CodeSwordsman Image Converter
+# 码剑客图标转换器 / CodeSwordsman Image Converter
 Free, powerful, and easy-to-use image converter for everyone.
 
 ---
@@ -63,7 +63,7 @@ English Website：[https://lumtool.com](https://lumtool.com)
 JPG, PNG, BMP
 
 ### Output Formats / 输出格式
-JPG, PNG, ICO, PDF, SVG
+JPG, PNG, ICO, PDF, SVG, webP
 
 ---
 
@@ -89,12 +89,14 @@ JPG, PNG, ICO, PDF, SVG
 ---
 
 ## 💻 Download / 下载
-Latest version: v1.0.0
+Latest version: v1.0.10
+# GitHub:
 👉 [https://github.com/CodeSwordsmanDev/CodeSwordsmanImageConverter/releases](https://github.com/CodeSwordsmanDev/CodeSwordsmanImageConverter/releases)
+# 微软商店：
+👉 [https://apps.microsoft.com/detail/9N6ZXF2TH58Q](https://apps.microsoft.com/detail/9N6ZXF2TH58Q)
 
 ### 📦 Supported Installation Packages / 支持安装包类型
-- Windows: .exe 安装包 / 绿色便携版
-- macOS: .dmg 镜像包
+- Windows: .exe 安装包 / MSIX
 
 ---
 
