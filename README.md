@@ -1,14 +1,12 @@
-<<<<<<< HEAD
-# 码剑客图转器 / CodeSwordsman Image Converter
-
-=======
 # 码剑客图标转换器 / CodeSwordsman Image Converter
->>>>>>> db4cd269dd22b4148664638716df5373676aa09c
-Free, powerful, and easy-to-use image converter for everyone.
+
+> > > > > > > db4cd269dd22b4148664638716df5373676aa09c
+> > > > > > > Free, powerful, and easy-to-use image converter for everyone.
 
 ***
 
 ## 📖 About Us / 关于我们
+
 <<<<<<< HEAD
 
 致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
@@ -16,32 +14,35 @@ We are committed to developing excellent free software tools, focusing on the fi
 中文官网：<https://www.majk.cn>
 English Website：<https://lumtool.com>
 -------------------------------------
-=======
+
+\=======
 致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
 We are committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
-中文官网：[https://www.majk.cn](https://www.majk.cn)
-English Website：[https://lumtool.com](https://lumtool.com)
+中文官网：<https://www.majk.cn>
+English Website：<https://lumtool.com>
 
----
->>>>>>> db4cd269dd22b4148664638716df5373676aa09c
+***
+
+> > > > > > > db4cd269dd22b4148664638716df5373676aa09c
 
 ## ✨ Features / 功能特性
 
 - **One-click Standard Icon Generation**: Generate standard icons for multiple platforms in one click
   多平台标准图标一键生成
-<<<<<<< HEAD
-=======
+  <<<<<<< HEAD
+  \=======
 
->>>>>>> db4cd269dd22b4148664638716df5373676aa09c
+> > > > > > > db4cd269dd22b4148664638716df5373676aa09c
+
 - **Simple & Intuitive Interface**: Clean and straightforward UI with zero learning cost
   简洁直观界面，零学习成本
-
 - **100% Free**: No ads, no bundles, no hidden fees
   完全免费，无广告、无捆绑、无隐藏收费
-<<<<<<< HEAD
-=======
+  <<<<<<< HEAD
+  \=======
 
->>>>>>> db4cd269dd22b4148664638716df5373676aa09c
+> > > > > > > db4cd269dd22b4148664638716df5373676aa09c
+
 - **Fast & Stable**: Fast and stable with efficient processing
   快速稳定，高效处理
 
@@ -86,10 +87,12 @@ English Website：[https://lumtool.com](https://lumtool.com)
 JPG, PNG, BMP
 
 ### Output Formats / 输出格式
-<<<<<<< HEAD
-=======
+
+# <<<<<<< HEAD
+
 JPG, PNG, ICO, PDF, SVG, webP
->>>>>>> db4cd269dd22b4148664638716df5373676aa09c
+
+> > > > > > > db4cd269dd22b4148664638716df5373676aa09c
 
 JPG, PNG, ICO, PDF, SVG，webP
 
@@ -121,6 +124,7 @@ JPG, PNG, ICO, PDF, SVG，webP
 ***
 
 ## 💻 Download / 下载
+
 <<<<<<< HEAD
 
 Latest version: v1.0.0
@@ -131,16 +135,23 @@ Latest version: v1.0.0
 👉 <https://apps.microsoft.com/detail/9N6ZXF2TH58Q>
 
 ### 📦 Supported Installation Packages / 支持安装包类型
-=======
+
+\=======
 Latest version: v1.0.10
+
 # GitHub:
-👉 [https://github.com/CodeSwordsmanDev/CodeSwordsmanImageConverter/releases](https://github.com/CodeSwordsmanDev/CodeSwordsmanImageConverter/releases)
+
+👉 <https://github.com/CodeSwordsmanDev/CodeSwordsmanImageConverter/releases>
+
 # 微软商店：
-👉 [https://apps.microsoft.com/detail/9N6ZXF2TH58Q](https://apps.microsoft.com/detail/9N6ZXF2TH58Q)
+
+👉 <https://apps.microsoft.com/detail/9N6ZXF2TH58Q>
 
 ### 📦 Supported Installation Packages / 支持安装包类型
+
 - Windows: .exe 安装包 / MSIX
->>>>>>> db4cd269dd22b4148664638716df5373676aa09c
+
+> > > > > > > db4cd269dd22b4148664638716df5373676aa09c
 
 - Windows: .exe 安装包 / MSIX
 
@@ -188,8 +199,10 @@ Q: 下载的安装包有病毒吗？
 A: 所有安装包均通过 GitHub Releases 官方分发，无捆绑、无广告、无恶意代码，可放心下载。
 
 <<<<<<< HEAD
+
 ***
 
-=======
----
->>>>>>> db4cd269dd22b4148664638716df5373676aa09c
+## =======
+
+> > > > > > > db4cd269dd22b4148664638716df5373676aa09c
+
