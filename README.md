@@ -108,7 +108,7 @@ JPG, PNG, ICO, PDF, SVG, WebP
 
 ## 💻 Download / 下载
 
-Latest version: v1.0.10
+Latest version: v1.0.11
 
 ### GitHub:
 
