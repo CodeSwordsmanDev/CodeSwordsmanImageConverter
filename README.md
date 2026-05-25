@@ -6,8 +6,9 @@ Free, powerful, and easy-to-use image converter for everyone.
 
 ## 📖 About Us / 关于我们
 
-致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
-We are committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
+**码剑客（CodeSwordsman，简称 CSM）** 致力于开发优秀的免费软件工具，深耕实用型工具领域，秉持高效、便捷的理念，为全球用户提供简洁易用、功能靠谱的使用体验，助力用户提升效率、简化操作。
+
+**CodeSwordsman (CSM)** is committed to developing excellent free software tools, focusing on the field of practical utilities. Upholding the principles of efficiency and convenience, we provide users worldwide with a simple, easy-to-use and reliable experience, helping them improve efficiency and simplify operations.
 中文官网：<https://www.majk.cn>
 English Website：<https://codeswordsman.com>
 
@@ -107,8 +108,6 @@ JPG, PNG, ICO, PDF, SVG, WebP
 ***
 
 ## 💻 Download / 下载
-
-Latest version: v1.0.11
 
 ### GitHub:
 
